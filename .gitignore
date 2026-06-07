@@ -1,0 +1,6 @@
+# Ignore all compiled executables with no extension
+Week1/D1/twosum
+Week1/D1/twosumm
+
+# Ignore general Mac system files
+.DS_Store
